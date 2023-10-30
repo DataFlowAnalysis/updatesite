@@ -52,6 +52,7 @@ org.palladiosimulator.dataflow.confidentiality.pcm.model.confidentiality.util
 org.palladiosimulator.dataflow.confidentiality.pcm.model.profile
 org.palladiosimulator.dataflow.confidentiality.pcm.model.profile.impl
 org.palladiosimulator.dataflow.confidentiality.pcm.queryutils
+org.palladiosimulator.dataflow.confidentiality.pcm.testmodels
 org.palladiosimulator.dataflow.confidentiality.pcm.ui
 org.palladiosimulator.dataflow.confidentiality.ui
 org.palladiosimulator.dataflow.confidentiality.ui.wizard
