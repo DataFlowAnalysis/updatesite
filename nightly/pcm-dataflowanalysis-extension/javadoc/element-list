@@ -54,6 +54,8 @@ org.dataflowanalysis.pcm.extension.dictionary.DataDictionary.presentation
 org.dataflowanalysis.pcm.extension.dictionary.DataDictionary.provider
 org.dataflowanalysis.pcm.extension.dictionary.DataDictionary.util
 org.dataflowanalysis.pcm.extension.dictionary.editor.sirius
+org.dataflowanalysis.pcm.extension.editor.sirius
+org.dataflowanalysis.pcm.extension.editor.sirius.assignments
 org.dataflowanalysis.pcm.extension.model.confidentiality
 org.dataflowanalysis.pcm.extension.model.confidentiality.behaviour
 org.dataflowanalysis.pcm.extension.model.confidentiality.behaviour.impl
