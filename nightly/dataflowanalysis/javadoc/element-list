@@ -6,12 +6,14 @@ org.dataflowanalysis.analysis.characteristics.node
 org.dataflowanalysis.analysis.characteristics.variable
 org.dataflowanalysis.analysis.core
 org.dataflowanalysis.analysis.entity
+org.dataflowanalysis.analysis.entity.dfd
 org.dataflowanalysis.analysis.entity.pcm
 org.dataflowanalysis.analysis.entity.pcm.seff
 org.dataflowanalysis.analysis.entity.pcm.user
 org.dataflowanalysis.analysis.entity.sequence
 org.dataflowanalysis.analysis.resource
 org.dataflowanalysis.analysis.sequence
+org.dataflowanalysis.analysis.sequence.dfd
 org.dataflowanalysis.analysis.sequence.pcm
 org.dataflowanalysis.analysis.sequence.pcm.finder
 org.dataflowanalysis.analysis.utils.pcm
