@@ -6,8 +6,8 @@
     <property name='p2.timestamp' value='1243822502501'/>
   </properties>
   <children size='3'>
-    <child location='dataflowanalysis/v1.0.0'/>
-	<child location='dfd-metamodel/v1.0.0'/>
+    <child location='dataflowanalysis/v2.0.0'/>
+	<child location='dfd-metamodel/v2.0.0'/>
 	<child location='pcm-dataflowanalysis-extension/v5.2.0'/>
   </children>
 </repository>
