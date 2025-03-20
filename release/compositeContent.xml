@@ -6,10 +6,10 @@
     <property name='p2.timestamp' value='1243822502501'/>
   </properties>
   <children size='5'>
-    <child location='dataflowanalysis/v3.0.0'/>
-	<child location='dfd-metamodel/v3.0.0'/>
-	<child location='pcm-dataflowanalysis-extension/v5.2.0'/>
-	<child location='converter/v3.0.0'/>
-	<child location='examplemodels/v3.0.0'/>
+    <child location='dataflowanalysis/v4.0.0'/>
+	<child location='dfd-metamodel/v4.0.0'/>
+	<child location='pcm-dataflowanalysis-extension/v5.2.1'/>
+	<child location='converter/v4.0.0'/>
+	<child location='examplemodels/v4.0.0'/>
   </children>
 </repository>
