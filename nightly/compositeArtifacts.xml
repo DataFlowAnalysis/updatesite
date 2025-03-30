@@ -5,11 +5,12 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502442'/>
   </properties>
-  <children size='5'>
+  <children size='6'>
     <child location='dataflowanalysis'/>
 	<child location='dfd-metamodel'/>
 	<child location='pcm-dataflowanalysis-extension'/>
 	<child location='converter'/>
 	<child location='examplemodels'/>
+	<child location='analysis-backend-server'/>
   </children>
 </repository>

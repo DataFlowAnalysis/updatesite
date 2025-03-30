@@ -10,6 +10,6 @@
 	<child location='dfd-metamodel/v4.0.0'/>
 	<child location='pcm-dataflowanalysis-extension/v5.2.1'/>
 	<child location='converter/v4.0.0'/>
-	<child location='examplemodels/v4.0.0'/>
+	<child location='examplemodels/v4.0.0'/>	
   </children>
 </repository>
